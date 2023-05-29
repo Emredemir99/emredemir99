@@ -8,11 +8,6 @@ I believe in continuous improvement and hard work. I take care to develop myself
 
 ---
 
-
-
-<h1 align="center">Hi 👋, I'm Emre Demir</h1>
-<h3 align="center">I believe in continuous improvement and hard work. I take care to develop myself both socially and technically. I continue to work on the linux operating system and open source applications. I am actively working with container architecture kubernetes-rancher and middleware techs. microsoft iis. I am still developing myself in Iaas for systems management, on-premises and cloud management in cloud structures. Thank you.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emre-demir99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emre-demir99/" height="30" width="40" /></a>
