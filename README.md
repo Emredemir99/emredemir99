@@ -1,7 +1,7 @@
 # 🤙 Emre Demir
 **`(DevOps/Cloud/SRE)`**
 
-
+I believe in continuous improvement and hard work. I take care to develop myself both socially and technically. I continue to work on the linux operating system and open source applications. I am actively working with container architecture kubernetes-rancher and middleware techs. microsoft iis. I am still developing myself in Iaas for systems management, on-premises and cloud management in cloud structures. Thank you.
 <p align="left">
   <a href="https://www.linkedin.com/in/emre-demir99/">
    </p>
